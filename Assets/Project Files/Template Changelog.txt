@@ -1,0 +1,6 @@
+v1.0.1
+Template: Improved UI layout for wide screens
+
+
+v1.0.0
+Release
